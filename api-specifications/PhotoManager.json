@@ -324,7 +324,6 @@
                 "properties": {
                   "filename": {
                     "type": "string",
-                    "pattern": "^https?:\\/\\/(?:www\\.)?(?:42crunch\\.com|pixabay\\.com)\/(?:\\w+\/)*.+(.jpg|.png)$",
                     "minLength": 10,
                     "example": "https://42crunch.com/wp-content/uploads/2022/02/LogoCr1.png",
                     "maxLength": 256
