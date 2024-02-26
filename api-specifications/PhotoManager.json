@@ -369,13 +369,7 @@
             "x-42c-format": "o:email"
           },
           "name": {
-            "type": "string",
-            "format": "username",
-            "example": "Isa Mauny",
-            "pattern": "^[\\sa-zA-Z]{5,35}$",
-            "minLength": 5,
-            "maxLength": 35,
-            "x-42c-format": "o:username"
+            "type": "string"
           },
           "account_balance": {
             "type": "number",
